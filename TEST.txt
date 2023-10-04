@@ -1,0 +1,267 @@
+1. uci ai
+https://cml.ics.uci.edu/2019/09/fall-2019/#content
+https://cml.ics.uci.edu/2019/09/fall-2019/
+https://www.cs.uci.edu/professor-baldi-publishes-paper-in-gastroenterology-on-automating-colonoscopies/
+https://www.ics.uci.edu/~dechter/courses/ics-270a/winter-03/project.html
+https://www.ics.uci.edu/~dechter/courses/ics-175a/spring-2000/
+https://www.ics.uci.edu/~dechter/courses/ics-175a/spring-2011/index.html
+https://www.ics.uci.edu/~dechter/courses/ics-295/winter-2018/
+https://www.ics.uci.edu/~dechter/courses/ics-175a/spring-2011/
+https://cml.ics.uci.edu/2017/01/winter-2017/#content
+https://cml.ics.uci.edu/aiml/page/2/#content
+0.10826563835144043
+
+2. machine learning
+http://archive.ics.uci.edu/ml/donation_policy.html
+http://archive.ics.uci.edu/ml/datasets/Residential+Building+Data+Set
+http://archive.ics.uci.edu/ml/datasets/2.4+GHZ+Indoor+Channel+Measurements
+http://archive.ics.uci.edu/ml/support/Reuters-21578+Text+Categorization+Collection#03a71aaf988c71c8022be08734da8e376f7fe037
+http://archive.ics.uci.edu/ml/datasets/Energy+efficiency
+http://archive.ics.uci.edu/ml/datasets/YouTube+Multiview+Video+Games+Dataset
+http://archive.ics.uci.edu/ml/datasets/Census+Income
+https://cbcl.ics.uci.edu/doku.php/start?rev=1485305036
+https://cbcl.ics.uci.edu/doku.php/start?rev=1485304990
+https://cbcl.ics.uci.edu/doku.php/start?rev=1485305125
+0.1196446418762207
+
+3. cristina lopes
+https://www.ics.uci.edu/~magda/cs620/announceOG.html
+https://www.ics.uci.edu/community/news/view_news.php?id=982
+https://www.informatics.uci.edu/impact/community-engagement/
+https://www.informatics.uci.edu/impact/community-engagement/#content
+https://www.ics.uci.edu/faculty/area/index.php
+https://www.ics.uci.edu/faculty/area/
+https://www.ics.uci.edu/faculty/area/#menu-01
+https://www.ics.uci.edu/~hsajnani/
+https://chenli.ics.uci.edu/publications/
+http://flamingo.ics.uci.edu/spellchecker/
+0.01099848747253418
+
+4. master of software engineering
+https://isg.ics.uci.edu/faculty2/avinash-kumar/
+https://www.ics.uci.edu/~lopes/
+https://mswe.ics.uci.edu/contact-us/
+https://mswe.ics.uci.edu/program/
+https://mswe.ics.uci.edu/admissions/
+https://mswe.ics.uci.edu/people/
+https://mswe.ics.uci.edu/admissions/information_sessions/
+https://mswe.ics.uci.edu/contact-us/#wpcf7-f891-p892-o1
+https://mswe.ics.uci.edu/career/
+https://mswe.ics.uci.edu/career/additional-resources/
+0.38589024543762207
+
+5. computer science
+http://sli.ics.uci.edu/Projects/GraphicalModels
+http://sli.ics.uci.edu/Code/Adaptive
+https://www.ics.uci.edu/~ejw/authoring/protocol/draft-ietf-webdav-protocol-05.txt
+https://www.ics.uci.edu/~ejw/authoring/protocol/draft-ietf-webdav-protocol-04.html
+https://www.ics.uci.edu/~ejw/authoring/protocol/draft-ietf-webdav-protocol-10.txt
+https://www.ics.uci.edu/~cs237/reading/Millennium.htm
+https://www.ics.uci.edu/~ejw/authoring/protocol/rfc2518.txt
+https://www.ics.uci.edu/~ejw/authoring/protocol/draft-ietf-webdav-protocol-05.html
+https://www.ics.uci.edu/~ejw/authoring/protocol/draft-ietf-webdav-protocol-08.txt
+https://www.ics.uci.edu/~ejw/authoring/protocol/draft-ietf-webdav-protocol-03.html
+0.14424848556518555
+
+6. research            
+http://alderis.ics.uci.edu/links.html
+http://archive.ics.uci.edu/ml/datasets/Climate+Model+Simulation+Crashes
+http://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet
+http://archive.ics.uci.edu/ml/datasets/Autistic+Spectrum+Disorder+Screening+Data+for+Children++
+http://archive.ics.uci.edu/ml/support/Breast+Cancer+Wisconsin+(Diagnostic)#93e4d326f6a322d66e034c1b88773f3a7f621526
+http://archive.ics.uci.edu/ml/datasets/Reuters+RCV1+RCV2+Multilingual%2C+Multiview+Text+Categorization+Test+collection
+http://archive.ics.uci.edu/ml/datasets/Pseudo+Periodic+Synthetic+Time+Series
+http://archive.ics.uci.edu/ml/datasets/Audiology+(Original)
+http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters
+http://archive.ics.uci.edu/ml/support/Protein+Data#6a9871da32f3042a5de9082a36a11d5aecda6df8
+0.09913969039916992
+
+7. artificial intelligencee
+https://aiclub.ics.uci.edu/
+https://aiclub.ics.uci.edu/#body
+https://aiclub.ics.uci.edu/index.html
+http://archive.ics.uci.edu/ml/datasets/Entree+Chicago+Recommendation+Data
+http://archive.ics.uci.edu/ml/support/Breast+Cancer+Wisconsin+(Diagnostic)#93e4d326f6a322d66e034c1b88773f3a7f621526
+http://archive.ics.uci.edu/ml/datasets/Audiology+(Original)
+http://archive.ics.uci.edu/ml/datasets/UJI+Pen+Characters
+http://archive.ics.uci.edu/ml/support/Protein+Data#6a9871da32f3042a5de9082a36a11d5aecda6df8
+http://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame
+http://archive.ics.uci.edu/ml/datasets/Audiology+%28Standardized%29
+0.0167543888092041
+
+8. university of california irvine
+https://www.cs.uci.edu/nvidia-developer-ai-helps-accelerate-the-drug-development-process-pierre-baldi-research-cited/
+https://www.cs.uci.edu/science-ai-is-changing-how-we-do-science-get-a-glimpse-xie-quoted/
+https://www.cs.uci.edu/event/elizabeth-belding/
+https://www.ics.uci.edu/~ardalan/students.html
+https://www.ics.uci.edu/~saeed/cv.html
+https://www.ics.uci.edu/~peymano/papers/iwpse98/slides/tsld001.htm
+https://www.ics.uci.edu/~mcostafi/contact.html
+https://www.ics.uci.edu/~emilyo/SimSE/eval.html
+https://www.ics.uci.edu/~express/news.htm
+https://www.ics.uci.edu/~emilyo/SimSE/contact.html
+0.3956773281097412
+
+9. nonprofit organization
+https://aiclub.ics.uci.edu/
+https://aiclub.ics.uci.edu/#body
+https://aiclub.ics.uci.edu/index.html
+https://www.ics.uci.edu/~baihaow/#portfolio
+https://www.ics.uci.edu/~baihaow/index.html
+https://www.ics.uci.edu/~baihaow/
+https://www.informatics.uci.edu/lopes-featured-speaker-at-2016-opensimulator-community-conference/#content
+https://www.informatics.uci.edu/2019/06/#content
+https://www.informatics.uci.edu/very-top-footer-menu-items/news/page/3/
+https://www.informatics.uci.edu/lopes-featured-speaker-at-2016-opensimulator-community-conference/
+0.05036759376525879
+
+10. computer vision research
+https://www.ics.uci.edu/~kay/wordlist.txt
+https://www.ics.uci.edu/~cs237/reading/Millennium.htm
+https://www.ics.uci.edu/~cs230/reading/Millennium.htm
+https://www.ics.uci.edu/~ihler/papers/abs.html#ssp05
+https://www.ics.uci.edu/~majumder/VC/211HW3/vlfeat/doc/api/kmeans-fundamentals.html
+http://sli.ics.uci.edu/Projects/GraphicalModels
+http://sli.ics.uci.edu/Code/Adaptive
+https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/paper1
+https://www.ics.uci.edu/~eppstein/180a/970415.html
+https://www.ics.uci.edu/~ejw/authoring/protocol/rfc2518.xml
+0.12022709846496582
+
+11. department of education
+https://www.ics.uci.edu/~wmt/socialCodeGroup/people.html
+https://www.informatics.uci.edu/california-department-of-education-state-superintendent-torlakson-announces-appointments-to-statewide-panel-for-computer-science-education-debra-richardson-named/
+https://www.informatics.uci.edu/california-department-of-education-state-superintendent-torlakson-announces-appointments-to-statewide-panel-for-computer-science-education-debra-richardson-named/#content
+https://ngs.ics.uci.edu/author/ramesh/page/192/
+https://ngs.ics.uci.edu/blog/page/192/
+https://www.ics.uci.edu/~bdonyana/index.html
+https://www.ics.uci.edu/~bdonyana/#sidebar
+https://www.ics.uci.edu/~bdonyana/
+https://mdogucu.ics.uci.edu/service.html
+https://www.cs.uci.edu/distinguished-professor-alex-nicolau-elected-into-academia-europaea/
+0.3699822425842285
+
+12. system architecture scalability
+https://www.ics.uci.edu/~irus/wisen/twist99/presentations/sun/sun-qna.html
+http://archive.ics.uci.edu/ml/support/Letter+Recognition#69547b69d3133bba06b4ce74e67e2f3a6366a2f6
+https://www.ics.uci.edu/~mjcarey/MJCarey_Prior_Research_Funding.html
+https://www.ics.uci.edu/~jmoorkan/index.htm#cv
+https://www.ics.uci.edu/~magda/cs620/introductionOG.html
+https://www.ics.uci.edu/~kay/wordlist.txt
+https://www.ics.uci.edu/~irus/wisen/wisen98/program.html
+https://www.ics.uci.edu/~schark/
+https://www.ics.uci.edu/~bdonyana/publication.html
+http://graphics.ics.uci.edu/publication.html
+0.1390972137451172
+
+13. necessary steps toward solution
+https://www.ics.uci.edu/~wscacchi/Software-Process/Downstream-Process-Engineering/Process_enactment_and_workflow.html
+https://www.ics.uci.edu/~neno/dsl/dsl97.html
+https://www.ics.uci.edu/~gbowker/classification/
+https://www.ics.uci.edu/~pattis/ICS-33/lectures/review.txt
+https://www.ics.uci.edu/~wscacchi/publications.html
+https://www.ics.uci.edu/~thornton/inf102/LabManual/Assignment1/
+https://www.ics.uci.edu/~kay/wordlist.txt
+https://www.ics.uci.edu/~thornton/ics32/ProjectGuide/Project3/index.html
+https://www.ics.uci.edu/~thornton/ics32/ProjectGuide/Project3/
+https://www.ics.uci.edu/~pattis/ICS-46/lectures/notes/memory.txt
+0.10288858413696289
+
+14. data strcuture and algorithm   
+http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Classes-2008F%2FRelatedTechniques
+https://www.ics.uci.edu/~kay/courses/h22/hw/wordlist.txt
+https://www.ics.uci.edu/~eppstein/pubs/p-csg.html
+https://www.ics.uci.edu/~eppstein/pubs/p-cpack.html
+https://www.ics.uci.edu/~kay/courses/h22/hw/wordlist-random.txt
+https://www.ics.uci.edu/~theory/269/w06.html
+https://www.ics.uci.edu/~eppstein/pubs/a-pszona.html
+https://www.ics.uci.edu/~smyth/courses/stats5/Forms/Jan16th_MachineLearning.txt
+https://www.ics.uci.edu/~irani/s11_22/codeExamples.html
+https://www.ics.uci.edu/~amrm/slides/compiler/compiler/tsld003.htm
+0.3524758815765381
+
+15. programming languages
+https://cml.ics.uci.edu/2014/09/fall-2014/
+https://cml.ics.uci.edu/2014/09/fall-2014/#content
+https://cml.ics.uci.edu/aiml/page/15/
+https://www.cs.uci.edu/news/page/8/
+https://www.ics.uci.edu/~thornton/ics32/Notes/Recursion/
+https://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=lopes
+https://www.ics.uci.edu/~ejw/authoring/requirements/draft-ietf-webdav-requirements-00.txt
+https://www.ics.uci.edu/~perl/#publications_selected
+https://www.ics.uci.edu/~ejw/authoring/orem/minutes.html
+https://www.ics.uci.edu/~ejw/authoring/requirements/draft-ietf-webdav-requirements-00.html
+0.1336500644683838
+
+16. alexander ihler
+http://vision.ics.uci.edu/papers/YarkonyIF_ECCV_2012/
+https://www.ics.uci.edu/~kkask/publications.html
+https://cml.ics.uci.edu/faculty/
+https://cml.ics.uci.edu/faculty/#content
+http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Group%2FIhler
+http://sli.ics.uci.edu/pmwiki/pmwiki.php?n=Main%2FHomePage
+http://sli.ics.uci.edu/Projects/RCTree
+http://sli.ics.uci.edu/
+http://sli.ics.uci.edu/Main/HomePage
+https://www.cs.uci.edu/tsudiks-biometrics-security-research-paper-featured-in-february-issue-of-cacm/
+0.028215885162353516
+
+17. ics department chair
+https://redmiles.ics.uci.edu/people/
+https://redmiles.ics.uci.edu/people/#content
+https://www.ics.uci.edu/community/events/openhouse/research08.html
+https://www.ics.uci.edu/~nodari/
+https://www.ics.uci.edu/grad/policies/GradPolicies_CommitteeMembers.php
+https://redmiles.ics.uci.edu/
+https://redmiles.ics.uci.edu/#content
+https://www.ics.uci.edu/community/news/notes/notes_2011.php
+https://www.informatics.uci.edu/retirement-reception-for-informatics-professor-david-g-kay-reveals-reach-of-his-teaching-tree/
+https://www.informatics.uci.edu/retirement-reception-for-informatics-professor-david-g-kay-reveals-reach-of-his-teaching-tree/#content
+0.15403437614440918
+
+18. project management
+https://studentcouncil.ics.uci.edu/past.html
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2018-fall?action=diff&version=17
+https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1-description?action=diff&version=5
+https://iasl.ics.uci.edu/people/rahimims/#moosavi-rahmani-2013-euromicro
+http://iasl.ics.uci.edu/people/rahimims/
+https://www.ics.uci.edu/~kobsa/privacy/Austrian-english.htm#E28
+https://www.ics.uci.edu/~brodbeck/
+https://www.ics.uci.edu/~aces/conferences.htm
+https://www.informatics.uci.edu/a-shared-passion-for-research-on-capitol-hill/#content
+https://www.informatics.uci.edu/ics-honors-four-alumni-at-2019-hall-of-fame-celebration/
+0.20154428482055664
+
+19. data science engineering
+https://cbcl.ics.uci.edu/doku.php/teaching/cs295w11/start?rev=1490825918
+https://cbcl.ics.uci.edu/doku.php/teaching/cs295w11/start?rev=1490827313
+https://cbcl.ics.uci.edu/doku.php/teaching?rev=1427745621
+https://cbcl.ics.uci.edu/doku.php/teaching?rev=1397103174
+https://cbcl.ics.uci.edu/doku.php/teaching/cs295w11/start?rev=1490812973
+https://cbcl.ics.uci.edu/doku.php/teaching/cs295w11/start?rev=1490825212
+https://cbcl.ics.uci.edu/doku.php/teaching/cs295w11/start?rev=1490813657
+https://cbcl.ics.uci.edu/doku.php/teaching?rev=1392156884
+https://cbcl.ics.uci.edu/doku.php/teaching?rev=1360895279
+https://cbcl.ics.uci.edu/doku.php/teaching/cs295w11/start?rev=1449606267
+0.22045493125915527
+
+20. annual undergrduate research symposium
+http://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gait
+http://hana.ics.uci.edu/index.html%3Fq=node%252F107.html
+http://hana.ics.uci.edu/index.html%3Fq=content%252Fyao-li.html
+http://hana.ics.uci.edu/index.html%3Fq=content%252Fpublications.html
+http://hana.ics.uci.edu/index.html%3Fq=node%252F12.html
+http://hana.ics.uci.edu/index.html%3Fq=node%252F104.html
+http://hana.ics.uci.edu/index.html%3Fq=content%252Ftrung-nguyen.html
+http://hana.ics.uci.edu/index.html%3Fq=content%252Fsimone-simpson.html
+http://hana.ics.uci.edu/index.html%3Fq=node%252F67.html
+https://www.ics.uci.edu/~cs230/reading/index.html
+0.1350421905517578
+
+
+4: master of software engineering (386ms)
+8: university of califronia irvine (396ms)
+11: department of education (370ms)
+14: data structure and algorithm (352ms)
+The above queries exceeded 300ms.
+After some testing, I found out that queries that contain stop words such as 'of', 'and', 'the', etc perform slower
